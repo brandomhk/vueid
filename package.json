@@ -1,7 +1,7 @@
 {
   "name": "vueid",
   "version": "0.1.0",
-  "description": "A plugin Vue, for use IndexedDB and integrate with vuex based on dexie.js",
+  "description": "Plugin to use IndexedDB with Vue",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
